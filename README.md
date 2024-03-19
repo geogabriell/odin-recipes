@@ -1,0 +1,1 @@
+I know a bit of HTML. I am very optimistic of my learning process with The Odin Project! I hope I will complete this project in no time!
